@@ -1,0 +1,3 @@
+C:/Users/ioana/OneDrive/Desktop/Cod_AF/APM-Kruskal/cmake-build-debug/CMakeFiles/APM_Kruskal.dir
+C:/Users/ioana/OneDrive/Desktop/Cod_AF/APM-Kruskal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ioana/OneDrive/Desktop/Cod_AF/APM-Kruskal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
